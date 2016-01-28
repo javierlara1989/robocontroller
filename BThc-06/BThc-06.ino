@@ -1,3 +1,7 @@
+//HC-06 Connections:
+//BT RX ----> TX Arduino
+//Bt TX ----> RX Arduino
+
 void setup()
 {
   Serial.begin(9600);
